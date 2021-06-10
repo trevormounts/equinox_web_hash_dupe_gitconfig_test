@@ -1,0 +1,4 @@
+lkg/data/elems/*.json merge=ours
+lkg/data/screens/*.json merge=ours
+lkg/data/elems/*.png merge=ours
+lkg/data/screens/*.png merge=ours
